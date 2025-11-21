@@ -61,6 +61,9 @@ We are actively working to improve VNTextMiner. PRs are welcome!
 - [ ] **Audio Mining:** Support for capturing system audio when mining a card.
 - [ ] **Multiple Dictionaries:** Support for JMdict, Kanjidic, and EPWING imports.
 - [ ] **Auto-Updater:** Built-in check for new releases.
+- [ ] **Add desktop icon:** So it doesn't look weird
+- [ ] **fix the scroll-bar:** So the mouse doesn't need to be on the slider in order to move up or down
+- [ ] **Add more Anki customization features**
 
 ## 🤝 Contributing
 
