@@ -1,0 +1,30 @@
+# Build folders
+[Bb]in/
+[Oo]bj/
+[Xx]64/
+[Xx]86/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.cache
+
+# Large Data Files (Users must download these themselves)
+*.db
+*.zip
+jitendex.zip
+dictionary.db
+
+# Textractor Bridge Specific
+*.aps
+*.ipch
+
+# OS files
+Thumbs.db
+.DS_Store
