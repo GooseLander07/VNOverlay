@@ -31,7 +31,7 @@
 
 ### Option 1: The Automatic Installer (Recommended)
 1.  Right-click the link below and select **"Save link as..."**:
-    👉 [**Download setup.ps1**](https://raw.githubusercontent.com/GooseLander/VNTextMiner/main/setup.ps1)
+    👉 [**Download setup.ps1**]([https://raw.githubusercontent.com/GooseLander/VNTextMiner/main/setup.ps1](https://github.com/GooseLander07/VNTextMiner/blob/main/setup.ps1))
 2.  Save it to your Downloads folder.
 3.  Right-click the file (`setup.ps1`) and select **Run with PowerShell**.
 4.  Follow the prompts. The tool will install to your Desktop.
