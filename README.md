@@ -48,10 +48,9 @@ irm https://raw.githubusercontent.com/GooseLander07/VNTextMiner/main/setup.ps1 |
 
 1.  **Open VNTextMiner.**
 2.  **Configure:** Open settings (⚙️) and set your Anki Deck/Model names.
-3.  **Start your Game/VN:** Use a tool like Textractor to hook the game.
-4.  **Set Textractor to "Copy to Clipboard"**.
-5.  VNTextMiner will automatically detect new text, analyze it, and display it.
-6.  **Click a word** -> See definition -> **"Add to Anki"**.
+3.  **Start your Game/VN:** Use [Textractor](https://github.com/Artikash/Textractor) to hook the game.
+4.  VNTextMiner will automatically detect new text, analyze it, and display it.
+5.  **Click a word** -> See definition -> **"Add to Anki"**.
 
 ## 🗺 Roadmap & Milestones
 
