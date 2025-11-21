@@ -56,6 +56,10 @@ irm https://raw.githubusercontent.com/GooseLander07/VNTextMiner/main/setup.ps1 |
 
 We are actively working to improve VNTextMiner. PRs are welcome!
 
+- [ ] **📸 Auto-Screenshot:** Capture game context automatically on mine.
+- [ ] **🎙️ Audio Replay:** Record the last 10s of game audio for Anki cards.
+- [ ] **🧠 Smart Anki:** Visual indicators for words you already know.
+- [ ] **👁️ Built-in OCR:** Mine text from games that can't be hooked.
 - [ ] **Settings Persistence:** Save window position, opacity, and deck names between sessions.
 - [ ] **Theme Support:** Dark/Light mode and custom CSS for the popup.
 - [ ] **Audio Mining:** Support for capturing system audio when mining a card.
