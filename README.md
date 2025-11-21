@@ -70,3 +70,14 @@ We are actively working to improve VNTextMiner. PRs are welcome!
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## ⚖️ Legal & Attribution
+
+**VNTextMiner** software is MIT Licensed.
+
+**Dictionary Data:**
+This software utilizes dictionary data from [Jitendex](https://jitendex.org/), which is based on **JMdict/EDICT**.
+*   JMdict/EDICT files are the property of the [Electronic Dictionary Research and Development Group](http://www.edrdg.org/), and are used in conformance with the Group's licence (CC BY-SA 3.0).
+
+**MeCab:**
+Includes [MeCab](https://taku910.github.io/mecab/) and [UniDic](https://clrd.ninjal.ac.jp/unidic/) data.
