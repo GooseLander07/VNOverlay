@@ -26,6 +26,7 @@
 
 1.  **[Anki](https://apps.ankiweb.net/):** With the **[AnkiConnect](https://ankiweb.net/shared/info/2055492159)** add-on installed.
 2.  **.NET 8.0 Desktop Runtime:** [Download Here](https://dotnet.microsoft.com/download/dotnet/8.0).
+3.  **Textractor:** [Necessary for game hooking](https://github.com/Artikash/Textractor)
 
 ## 🚀 Installation
 
