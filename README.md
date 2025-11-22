@@ -97,4 +97,3 @@ This software utilizes dictionary data from [Jitendex](https://jitendex.org/), w
 
 **MeCab:**
 Includes [MeCab](https://taku910.github.io/mecab/) and [UniDic](https://clrd.ninjal.ac.jp/unidic/) data.
-```
